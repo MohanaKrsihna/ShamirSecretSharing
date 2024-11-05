@@ -1,0 +1,2 @@
+The constant term (secret) is: 3
+The constant term (secret) is: 79836264049764
